@@ -1,0 +1,1 @@
+global.stam = 0;
